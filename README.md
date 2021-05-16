@@ -4,7 +4,7 @@
 * Bootstrap
 * JavaScript
 
-## Deploy
+## Demo
 [Presupuesto Semanal](https://unruffled-tesla-67e4e4.netlify.app/)
 
 ## ScreenShot
